@@ -1,0 +1,12 @@
+{
+  "name": "dream-traveling",
+  "version": "1.0.0",
+  "description": "It's an traveling web ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Pratvi",
+  "license": "ISC"
+}
